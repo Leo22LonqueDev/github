@@ -1,1 +1,3 @@
-# Bem vindo ao curso GitHub
+# Bem vindo ao Curso GitHub
+
+Aprendendo a realização dos commits
